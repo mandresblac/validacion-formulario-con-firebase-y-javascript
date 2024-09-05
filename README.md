@@ -11,14 +11,16 @@
     a la obtención de una mayor monetización.
 
 ## Imagenes del proyecto
-- imagen del formulario vacio:
+- imagen del formulario vacio
 
   ![Imagen 1 del Formulario](./images/formulario1.png)
 
-- imagen del formulario indicando que los datos se han enviado con exito a la base de datos:
+
+- imagen del formulario indicando que los datos se han enviado con exito a la base de datos
 
   ![Imagen 2 del formulario](./images/formulario2.png)
+  
 
-- imagen de la base de datos en Firebase donde se almacena la informacion enviada desde el forrmulario:
+- imagen de la base de datos en Firebase donde se almacena la informacion enviada desde el forrmulario
   
   ![Imagen 3 del formulario](./images/formulario3.png)
