@@ -1,5 +1,5 @@
 # Descripción del Repositorio
-- Este repositorio contiene un proyecto de un formulario al que se le ingresan tres datos (nombre, correo electronico y contraseña) y envia esta informacion a una base de datos en Firebase.
+- Este repositorio contiene un proyecto de un pequeño formulario al que se le ingresan tres datos (nombre, correo electronico y contraseña), al dar clic en el boton de "Enviar" esta informacion se almacena en una base de datos en Firebase.
 
 ## Tecnologias utilizadas
 - Para la realizacion de este proyecto se utilizaron las siguientes tecnologias:
