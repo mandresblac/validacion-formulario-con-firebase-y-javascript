@@ -26,4 +26,4 @@
   ![Imagen 3 del formulario](./images/formulario3.png)
 
 ## Link del proyecto
-- Link del Proyecto [Formulario](https://validar-formulario-firebas-js.netlify.app/) Online.
+- [Formulario](https://validar-formulario-firebas-js.netlify.app/).
